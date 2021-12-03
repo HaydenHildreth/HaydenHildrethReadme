@@ -23,3 +23,19 @@ Some of my projects are available publicly
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png" alt="qt"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="linux"></code>
+
+- C++
+  -QT
+- C#
+- Python
+- Java
+- HTML
+- CSS
+- JavaScript
+- JQuery
+- Terminal
+  - Bash, etc.
+- Databases
+- SQL
+- Linux
+- Would love to learn more
