@@ -37,5 +37,6 @@ Some of my projects are available publicly
   - Bash, etc.
 - Databases
 - SQL
+- Git
 - Linux
 - Would love to learn more
