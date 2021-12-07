@@ -28,6 +28,7 @@ Some of my projects are available publicly
   - QT
 - C#
 - Python
+  - Tkinter, MatPlotLib
 - Java
 - HTML
 - CSS
