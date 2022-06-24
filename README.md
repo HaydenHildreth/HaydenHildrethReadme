@@ -1,7 +1,7 @@
 ## Hello, I'm @[HaydenHildreth](https://github.com/HaydenHildreth/) 👋
 
 ### Welcome to my profile!
-I'm a student in Information Systems at Bowling Green State University 🎓. I enjoy problem solving and learning new things.
+I'm a graduate in Information Systems at Bowling Green State University 🎓. I enjoy problem solving and learning new things.
 
 ### Current works
 🚀 I'm currently working on projects in C++, C#, Python and a few other languages.
