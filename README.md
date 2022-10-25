@@ -40,4 +40,5 @@ Some of my projects are available publicly
 - SQL
 - Git
 - Linux
+  - Fedora, Ubuntu, others
 - Would love to learn more
